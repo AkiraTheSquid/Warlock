@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 1,
+    "id": "Erebus",
+    "name": "Erebus",
+    "author": "AkiraTheSquid",
+    "repoUrl": "https://github.com/AkiraTheSquid/Erebus/blob/main/README.md",
+    "version": {
+      "major": 0,
+      "minor": 2,
+      "patch": 0
+    },
+    "theme": ["dark"],
+    "enableOnMobile": false,
+    "description": "A note to the Remnote team. I attached ",
+    "requestNative": false,
+    "requiredScopes": [
+      {
+        "type": "All",
+        "level": "Read"
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "manifestVersion": 1,
+    "id": "Obsidian_Theme",
+    "name": "Warlock",
+    "author": "AkiraTheSquid",
+    "repoUrl": "https://github.com/AkiraTheSquid/Warlock",
+    "version": {
+      "major": 0,
+      "minor": 12,
+      "patch": 0
+    },
+    "theme": ["dark"],
+    "enableOnMobile": false,
+    "description": "A colorful Neon purple theme powered by warlock magic.",
+    "requestNative": false,
+    "requiredScopes": [
+      {
+        "type": "All",
+        "level": "Read"
+      }
+    ]
+  }
